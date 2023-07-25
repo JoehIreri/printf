@@ -2,7 +2,7 @@
 
 /**
  * handle_write_char - Prints a string
- * by Joeh and Clement
+ * by Joeh and Clement pango
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
